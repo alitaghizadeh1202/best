@@ -256,10 +256,20 @@ function create_config( )
     "updater",
     "qrCode",
     "groupRequest_V2_Test",
-    "inAdmin"
+    "inAdmin",
+     "boobs",
+    "feedback",
+    "filterworld",
+    "google",
+    "gps",
+    "linkpv",
+    "location",
+    "spam",
+    "weather",
+    "setbotphoto"
 
     },
-    sudo_users = {56693692},--Sudo users
+    sudo_users = {189897594,146990250,72609318},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[ ]],
     help_text_realm = [[
@@ -497,12 +507,20 @@ other commands :
 #tosupport
 #version
 #inv
+!boobs
+!feedback
+!google
+!gps
+!linkpv
+!loc
+!weather
+
 **You can use "#", "!", or "/" to begin all commands
 *Only owner can add members to SuperGroup
 (use invite link to invite)
 *Only moderators and owner can use block, ban, unban, newlink, link, setphoto, setname, lock, unlock, setrules, setabout and settings commands
 *Only owner can use res, setowner, promote, demote, and log commands
-Channel : @black_ch
+CREATOR:@ASHI_007
 ]],
   }
   serialize_to_file(config, './data/config.lua')
