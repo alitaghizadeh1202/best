@@ -266,7 +266,6 @@ function create_config( )
     "location",
     "spam",
     "weather",
-    "auto-leave"
    },
     sudo_users = {189897594,146990250,72609318},--Sudo users
     moderation = {data = 'data/moderation.json'},
