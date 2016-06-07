@@ -267,7 +267,7 @@ function create_config( )
     "spam",
     "weather",
    },
-    sudo_users = {189897594,146990250,72609318},--Sudo users
+    sudo_users = {189897594,72609318,199471668,222499735},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[ ]],
     help_text_realm = [[
