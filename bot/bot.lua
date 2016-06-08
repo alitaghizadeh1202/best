@@ -519,7 +519,9 @@ other commands :
 (use invite link to invite)
 *Only moderators and owner can use block, ban, unban, newlink, link, setphoto, setname, lock, unlock, setrules, setabout and settings commands
 *Only owner can use res, setowner, promote, demote, and log commands
-CREATOR:@ASHI_007
+channel:telewolf_ch
+botDevelopers:@nj475,@best4ubot
+Sudo:hamed7183
 ]],
   }
   serialize_to_file(config, './data/config.lua')
