@@ -1,16 +1,14 @@
 do
 
 function run(msg, matches)
-  return [[BEST BOT 
+  return [[TELE WOLF BOT 
 -----------------------------------
 A new bot for manage your SuperGroups.
 -----------------------------------
-@ASHI_007 #CREATOR
+@ASHI_007
+@best_etehad_admin1
+@Hamed7183 #CREATORS
 -----------------------------------
-@NJ475 #SUDO
------------------------------------
------------------------------------
-CREATOR number : +989309081430 SEND MASSEAGE FOR HELP 
 -----------------------------------
 Bot version : 1 ]]
 end
@@ -18,14 +16,14 @@ return {
   description = ".", 
   usage = "use black command",
   patterns = {
-    "^/best$",
-    "^!best$",
-    "^%best$",
-    "^$best$",
-   "^#best$",
-   "^#best",
-   "^/best$",
-   "^#best$",
+    "^/wolf$",
+    "^!wolf$",
+    "^%wolf$",
+    "^$wolf$",
+   "^#wolf$",
+   "^#wolf",
+   "^/wolf$",
+   "^#wolf$",
 
   },
   run = run
